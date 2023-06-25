@@ -1,5 +1,6 @@
 # Starter Web Project
 Simple website project
+sample text
 ## Introduction
 ## Purpose
 purpose
