@@ -2,5 +2,7 @@
 Simple website project
 ## Introduction
 ## Purpose
+purpose
 ## Deployment
+deployment
 ## How To Contribute
