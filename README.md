@@ -6,3 +6,6 @@ purpose
 ## Deployment
 deployment
 ## How To Contribute
+
+### Copyright
+Git.Training
